@@ -1,3 +1,7 @@
+*, body {
+  font-family: 'Arial', sans-serif;
+}
+
 .bg-gray {
     background-color: darkgray;
 }
@@ -27,7 +31,7 @@ span.a {
   .section {
   }
   .description{
-   padding: 3px;
+   padding: 12px 0;
   }
   .konten{
     padding-left: 5vh;
