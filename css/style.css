@@ -32,9 +32,12 @@ span.a {
   .konten{
     padding-left: 5vh;
     margin-top: 3vh;
-  }/*
-  .img-fluid{
-    width: 1000px;
-    height: 200px;
+  }
+  .img-responsive{
+    width: 100%;
+    height: auto;
     display:block;
-  }*/
+  }
+  .list-group-item{
+    background-color: darkgrey;
+  }
