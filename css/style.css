@@ -41,3 +41,8 @@ span.a {
   .list-group-item{
     background-color: darkgrey;
   }
+
+  .img-thumbnail {
+    background-color: grey;
+    border: 1px grey;
+  }
